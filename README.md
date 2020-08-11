@@ -24,6 +24,13 @@ See CALVIN website for documentation and more information
 
 https://watershed.ucdavis.edu/shed/lund/CALVIN/
 
+**********************************
+# Workshop Recordings:
+Box link to the recordings of the workshops. 
+These may take a few days to update. 
+
+https://ucmerced.box.com/s/ttta7lfh1pspuh7xl6yurn8ogmnjmkr5
+
 # Related GitHub repositories:
 
 ## CALVIN main repository
